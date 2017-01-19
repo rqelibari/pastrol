@@ -1,0 +1,6 @@
+[submodule "vendors/cpp-project-template"]
+	path = vendors/cpp-project-template
+	url = https://github.com/rqelibari/cpp-project-template.git
+[submodule "vendors/googletest"]
+	path = vendors/googletest
+	url = https://github.com/google/googletest.git
